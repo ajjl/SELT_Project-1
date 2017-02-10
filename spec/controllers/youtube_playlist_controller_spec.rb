@@ -68,8 +68,8 @@ def configure_omniauth # function that tells omniauth gem to mock authentication
          :type => 'user',
          :uri => "spotify:user:#{myUID}",
          :credentials => {
-             :token => 'BQDQcSp-sjJhjAYwneBh6ihKJdjl2lr0TLUdnP90g8suOMHPUKrphr8zofpF8-XM1Y8z4KXcBiWNqdvGMtX2tTJ-cgXqC8cce43b46ZX4CJVpd1TcBErtrf28RfqMcbEQuHndxnpON3tQS4HGlVt8Lz_cZQSQXy6XxzgzZFaXETPMgGIrezdkM6ayZ5Urn9HssLLRp2PATKQQ6w',
-             :refresh_token => 'AQDXykZgL9aArA9BdGlB3WTB2w0OK-J3pBJm9QXu5iliRwwcF98SVXrO4wlkGXyEX2FASrAQOTtNPgumDOzVfe8t4BM0u3Qj_EOVZ-X6nZlUzpK0EQvLOKLP0u8s1NXYNW4',
+             :token => 'BQDQcSp-sjJhjAYwneBh6ihKrdjl2lr0TLUdnP90g8suOMHPUKrphr8zofpF8-XM1Y8z4KXcBiWNqdvGMtX2tTJ-cgXqC8cce43b46ZX4CJVpd1TcBErtrf28RfqMcbEQuHndxnpON3tQS4HGlVt8Lz_cZQSQXy6XxzgzZFaXETPMgGIrezdkM6ayZ5Urn9HssLLRp2PATKQQ6w',
+             :refresh_token => 'AQDXykZgL9aArr9BdGlB3WTB2w0OK-J3pBJm9QXu5iliRwwcF98SVXrO4wlkGXyEX2FASrAQOTtNPgumDOzVfe8t4BM0u3Qj_EOVZ-X6nZlUzpK0EQvLOKLP0u8s1NXYNW4',
              :expires_at => '1479364946',
              :expires => true
          },
@@ -91,8 +91,8 @@ def configure_omniauth # function that tells omniauth gem to mock authentication
           }
       },
       "credentials" => {
-          "token" => "ya29.Ci-uA4iyGBxQk90XMOx0zhlMciZus1V4DJE4QaLPL0sLrTEAN6lzu2ocYMGfFNQe5w",
-          "refresh_token" => "1/8J4AdTOzpQSvAYByWNY0e2Kg6aEmzrgLyvKRg5bECDfIeNk2CcQMmx8ZFzxbXtLj",
+          "token" => "ya29.Ci-uA4iyGBxQk90XMOx0zhlMciZus1V4rJE4QaLPL0sLrTEAN6lzu2ocYMGfFNQe5w",
+          "refresh_token" => "1/8J4AdTOzpQSvAYByWNY0e2Kg6armzrgLyvKRg5bECDfIeNk2CcQMmx8ZFzxbXtLj",
           "expires_at" => 1481191145,
           "expires" => true
       },
